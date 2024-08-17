@@ -170,7 +170,7 @@
   }
   
   /* Responsive design */
-  @media (max-width: 480px) {
+  @media (max-width: 480px) and (orientation: portrait) {
     .container {
       display: flex;
       flex-direction: row;
