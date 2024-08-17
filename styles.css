@@ -172,10 +172,8 @@
   /* Responsive design */
   @media (max-width: 480px) and (orientation: portrait) {
     .container {
-        flex-direction: column;
-        justify-content: flex-start;
-        height: auto;
-        padding: 10px;
+        display: flex;
+        flex-direction: row;
     }
     .encriptar {
       width: 100%;
