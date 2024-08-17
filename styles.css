@@ -170,7 +170,7 @@
   }
   
   /* Responsive design */
-  @media (max-width: 57.5em) {
+  @media (max-width: 480px) {
     .container {
       display: flex;
       flex-direction: row;
