@@ -6,10 +6,10 @@ Como deberia actuar el encriptador o como debe ser utilizarlo por el usuario.
 
 La funcionaldad de encriptación, se conducira o actuará de la siguiente forma:
 
-La letra "e" es convertida para "enter"; 
-La letra "i" es convertida para "imes"; 
-La letra "a" es convertida para "ai"; 
-La letra "o" es convertida para "ober"; 
+La letra "e" es convertida para "enter", 
+La letra "i" es convertida para "imes", 
+La letra "a" es convertida para "ai", 
+La letra "o" es convertida para "ober", 
 La letra "u" es convertida para "ufat".
 
 La página debe tener campos para inserción del texto que será encriptado o desencriptado, 
